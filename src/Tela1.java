@@ -17,7 +17,7 @@ public class Tela1 extends javax.swing.JFrame implements ActionListener { //Tela
     private JButton conf = new JButton("Configuracoes");
     private JLabel pontuacao = new JLabel("Pontuação: 0");
     private JLabel novaConquista = new JLabel("Nova Conquista!");
-    private JLabel vercao = new JLabel("Verção: 1.8.2025");
+    private JLabel vercao = new JLabel("Versão: 1.7.2025");
 
     Tela2 tela = new Tela2(this);
     Tela3 tela3 = new Tela3(this);
@@ -69,7 +69,7 @@ public class Tela1 extends javax.swing.JFrame implements ActionListener { //Tela
         loja.addActionListener(this);
         conf.addActionListener(this);
 
-        conf.setVisible(true);
+        conf.setVisible(false);
         loja.setVisible(true);
         botao.setVisible(true);
         botaoAtualizar.setVisible(true);
