@@ -1,4 +1,4 @@
-# Entre aquipara saber as novidades de cada versão:
+# Entre aqui para saber as novidades de cada versão:
 
 https://docs.google.com/document/d/1WEPSaVr-4lPEP1wve5oVFj1rFXIIyymksZlQVYq8jKo/edit?usp=sharing
 
